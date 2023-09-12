@@ -1,4 +1,4 @@
-![image](https://github.com/Upstart11/EasyImport/assets/144837821/647d7940-2ef2-4e15-b948-8eee82a8c732)
+![image](https://github.com/Upstart11/EasyImport/assets/144837821/4608810b-cb5f-42d6-81fb-9b8653d9cce6)
 
 
 An addon to simplify and speed up the import of popular file extesions like FBX and OBJ
