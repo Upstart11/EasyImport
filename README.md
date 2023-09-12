@@ -1,4 +1,6 @@
-![image](https://github.com/Upstart11/EasyImport/assets/144837821/8b262b03-e8d0-48f1-8bc3-407941e63ee7)# EasyImport
+![image](https://github.com/Upstart11/EasyImport/assets/144837821/647d7940-2ef2-4e15-b948-8eee82a8c732)
+
+
 An addon to simplify and speed up the import of popular file extesions like FBX and OBJ
 
 If you ever had to import a lot of assets in blender you know how painful and frustrating it can be. While we wait for drag and drop import you can try this addon.
